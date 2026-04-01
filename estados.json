@@ -1,0 +1,218 @@
+{
+  "LUA": {
+    "nome": "Luanda",
+    "regiao": "Norte",
+    "capital": "Luanda",
+    "populacao": 8972000,
+    "caracteristicas": ["capital económica de Angola", "maior centro urbano", "hub empresarial"],
+    "frases": [
+      "Luanda, a capital económica de Angola, pulsa com oportunidades digitais em plena expansão.",
+      "O mercado luandense exige soluções digitais de alto nível para competir globalmente.",
+      "Luanda está a transformar-se no polo tecnológico de Angola com empresas que apostam na inovação."
+    ]
+  },
+  "BGZ": {
+    "nome": "Benguela",
+    "regiao": "Centro-Sul",
+    "capital": "Benguela",
+    "populacao": 635000,
+    "caracteristicas": ["costa histórica", "porto de Benguela", "polo turístico"],
+    "frases": [
+      "Benguela, com sua costa histórica, está a transformar o comércio com soluções digitais.",
+      "A região de Benguela e Lobito precisa de apps que conectem empresas e clientes locais.",
+      "O Lobito, com seu porto estratégico, está a abraçar a transformação digital."
+    ]
+  },
+  "HMP": {
+    "nome": "Huambo",
+    "regiao": "Centro",
+    "capital": "Huambo",
+    "populacao": 1300000,
+    "caracteristicas": ["coração do planalto central", "agricultura", "centro comercial regional"],
+    "frases": [
+      "O Huambo, coração do planalto central, está a despertar para o mundo digital.",
+      "A província do Huambo oferece oportunidades únicas para empreendedores tech.",
+      "Huambo está a posicionar-se como polo tecnológico do interior angolano."
+    ]
+  },
+  "HUI": {
+    "nome": "Huíla",
+    "regiao": "Sul",
+    "capital": "Lubango",
+    "populacao": 600000,
+    "caracteristicas": ["planalto da Huíla", "agricultura de altitude", "região fértil"],
+    "frases": [
+      "Lubango, capital da Huíla, está a conectar-se ao mundo digital com soluções inovadoras.",
+      "A Huíla, com seu clima ameno e agricultura próspera, abraça a transformação digital.",
+      "O planalto da Huíla está a tornar-se um novo polo tecnológico de Angola."
+    ]
+  },
+  "CAB": {
+    "nome": "Cabinda",
+    "regiao": "Norte",
+    "capital": "Cabinda",
+    "populacao": 699000,
+    "caracteristicas": ["enclave petrolífero", "fronteira com Congo", "potencial logístico"],
+    "frases": [
+      "Cabinda, com seu potencial petrolífero, está a investir em tecnologia para diversificar a economia.",
+      "A província de Cabinda está a criar oportunidades digitais para empreendedores locais.",
+      "O enclave de Cabinda posiciona-se como porta de entrada para soluções tech em África."
+    ]
+  },
+  "MAL": {
+    "nome": "Malanje",
+    "regiao": "Norte",
+    "capital": "Malanje",
+    "populacao": 518000,
+    "caracteristicas": ["Quedas de Kalandula", "região agrícola", "tradição cultural"],
+    "frases": [
+      "Malanje, berço das Quedas de Kalandula, está a desenvolver seu potencial tecnológico.",
+      "A região de Malanje está a conectar empresas locais ao mercado digital angolano.",
+      "Malanje oferece oportunidades únicas para soluções digitais no norte de Angola."
+    ]
+  },
+  "NAM": {
+    "nome": "Namibe",
+    "regiao": "Sul",
+    "capital": "Namibe",
+    "populacao": 291000,
+    "caracteristicas": ["deserto do Namibe", "fauna marinha", "porto de Moçâmedes"],
+    "frases": [
+      "Namibe, com seu deserto único, está a inovar com soluções digitais para o turismo.",
+      "A província do Namibe está a posicionar-se como destino digital do sul angolano.",
+      "Moçâmedes e o Namibe abraçam a tecnologia para desenvolver o potencial turístico."
+    ]
+  },
+  "UIG": {
+    "nome": "Uíge",
+    "regiao": "Norte",
+    "capital": "Uíge",
+    "populacao": 148000,
+    "caracteristicas": ["tradição cultural", "agricultura familiar", "região北部"],
+    "frases": [
+      "Uíge, com sua rica tradição cultural, está a abrir portas para a inovação digital.",
+      "A província do Uíge está a conectar-se ao mundo digital para desenvolver seu comércio.",
+      "O norte angolano representado por Uíge está a abraçar a transformação tecnológica."
+    ]
+  },
+  "BIE": {
+    "nome": "Bié",
+    "regiao": "Centro",
+    "capital": "Kuito",
+    "populacao": 167000,
+    "caracteristicas": ["planalto central", "pecuária", "região histórica"],
+    "frases": [
+      "Kuito, capital do Bié, está a reconstruir-se também no mundo digital.",
+      "A província do Bié está a desenvolver soluções tech para o seu potencial agrícola.",
+      "O coração de Angola, representado pelo Bié, pulsa com novas oportunidades digitais."
+    ]
+  },
+  "LSU": {
+    "nome": "Lunda Sul",
+    "regiao": "Norte",
+    "capital": "Saurimo",
+    "populacao": 129000,
+    "caracteristicas": ["diamantes", "mineração", "região remota"],
+    "frases": [
+      "Saurimo, capital da Lunda Sul, está a diversificar-se para além dos diamantes com tecnologia.",
+      "A Lunda Sul está a criar soluções digitais para o setor mineiro angolano.",
+      "A província diamantífera de Angola está a descobrir o poder da transformação digital."
+    ]
+  },
+  "LNO": {
+    "nome": "Lunda Norte",
+    "regiao": "Norte",
+    "capital": "Dundo",
+    "populacao": 177000,
+    "caracteristicas": ["diamantes", "floresta tropical", "biodiversidade"],
+    "frases": [
+      "Dundo, coração mineiro da Lunda Norte, está a inovar com soluções tecnológicas.",
+      "A Lunda Norte está a usar a tecnologia para desenvolver seu potencial natural.",
+      "A província da Lunda Norte está a abrir caminho para a digitalização do interior angolano."
+    ]
+  },
+  "CCU": {
+    "nome": "Cuando Cubango",
+    "regiao": "Sul",
+    "capital": "Menongue",
+    "populacao": 125000,
+    "caracteristicas": ["fronteira com Namíbia", "pecuária", "parques naturais"],
+    "frases": [
+      "Menongue, capital do Cuando Cubango, está a conectar-se ao futuro digital.",
+      "A província do Cuando Cubango está a desenvolver soluções para o seu potencial turístico.",
+      "O sul de Angola representado por Cuando Cubango está a abraçar a inovação tecnológica."
+    ]
+  },
+  "BNG": {
+    "nome": "Bengo",
+    "regiao": "Norte",
+    "capital": "Caxito",
+    "populacao": 93000,
+    "caracteristicas": ["perto de Luanda", "região verde", "potencial agrícola"],
+    "frases": [
+      "Caxito, capital do Bengo, está a crescer como polo tecnológico próximo a Luanda.",
+      "A província do Bengo oferece oportunidades únicas para startups digitais.",
+      "O Bengo está a posicionar-se como destino preferido para investimentos tech perto da capital."
+    ]
+  },
+  "KNO": {
+    "nome": "Cuanza Norte",
+    "regiao": "Norte",
+    "capital": "N'dalatando",
+    "populacao": 128000,
+    "caracteristicas": ["região histórica", "agricultura", "próximo a Luanda"],
+    "frases": [
+      "N'dalatando, capital do Cuanza Norte, está a despertar para o mundo digital.",
+      "A província do Cuanza Norte está a conectar-se à capital com soluções inovadoras.",
+      "O Cuanza Norte está a desenvolver seu potencial económico com tecnologia."
+    ]
+  },
+  "KSL": {
+    "nome": "Cuanza Sul",
+    "regiao": "Centro-Sul",
+    "capital": "Sumbe",
+    "populacao": 149000,
+    "caracteristicas": ["costa atlântica", "agricultura", "porto de Sumbe"],
+    "frases": [
+      "Sumbe, capital do Cuanza Sul, está a abrir portas para a inovação digital costeira.",
+      "A província do Cuanza Sul está a desenvolver soluções para o seu comércio.",
+      "O Cuanza Sul está a posicionar-se como polo tecnológico da costa central angolana."
+    ]
+  },
+  "CUN": {
+    "nome": "Cunene",
+    "regiao": "Sul",
+    "capital": "Ondjiva",
+    "populacao": 125000,
+    "caracteristicas": ["fronteira com Namibia", "etnia herero", "pecuária tradicional"],
+    "frases": [
+      "Ondjiva, capital do Cunene, está a conectar-se ao futuro digital do sul angolano.",
+      "A província do Cunene está a desenvolver soluções para o seu potencial agro-pecuário.",
+      "O Cunene está a usar a tecnologia para preservar suas tradições e desenvolver o comércio."
+    ]
+  },
+  "MOX": {
+    "nome": "Moxico",
+    "regiao": "Leste",
+    "capital": "Luena",
+    "populacao": 150000,
+    "caracteristicas": ["floresta tropical", "biodiversidade", "região remota"],
+    "frases": [
+      "Luena, capital do Moxico, está a abrir caminhos para a digitalização do leste angolano.",
+      "A província do Moxico está a usar a tecnologia para desenvolver seu comércio local.",
+      "O Moxico está a posicionar-se como novo polo de inovação no interior de Angola."
+    ]
+  },
+  "ZAI": {
+    "nome": "Zaire",
+    "regiao": "Norte",
+    "capital": "M'banza-Kongo",
+    "populacao": 93000,
+    "caracteristicas": ["fronteira com Congo", "tradição kongo", "porto do Soyo"],
+    "frases": [
+      "M'banza-Kongo, capital do Zaire, está a preservar a tradição kongo com tecnologia.",
+      "A província do Zaire está a conectar-se ao mundo digital através do seu porto estratégico.",
+      "O Zaire está a usar a inovação digital para desenvolver seu potencial comercial."
+    ]
+  }
+}
